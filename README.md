@@ -5,13 +5,14 @@
 </div>
 
 ```python
-profile = {
-    "name": "YoungJae Cho",
-    "school": "Gwangju Software Meister High School",
-    "tech": ["AWS", "Kubernetes", "Docker", "Terraform"],
-    "focus": ["배포 자동화", "장애 감지 및 대응"],
-    "certifications": [
-        "AWS Certified Solutions Architect - Associate",
-        "정보처리기능사",
+{
+    "Name": "YoungJae Cho",
+    "School": "Gwangju Software Meister High School",
+    "Tech": ["AWS", "Kubernetes", "Docker", "Terraform"],
+    "Focus": ["배포 자동화", "장애 감지 및 대응"],
+    "Certificate": [
+        "AWS Certified Solutions Architect – Associate",
+        "정보처리기능사"
     ],
+    "LinkedIn": "https://www.linkedin.com/in/영재-조-108593387"
 }
