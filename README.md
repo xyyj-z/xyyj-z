@@ -21,11 +21,9 @@
 }
 
 <div align="center">
-<br/>
-<a href="https://www.credly.com/badges/08efe8b7-fc7e-42b1-b623-d2ab0bcc312d/public_url">
-  <img src="...image.png" width="140" />
-</a>
-</div>
 
-### 🔥 Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,prometheus,grafana,python)](https://skillicons.dev)
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform)](https://skillicons.dev)
+
+</div>
