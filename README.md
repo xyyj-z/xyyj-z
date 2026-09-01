@@ -10,7 +10,7 @@
     "School": "Gwangju Software Meister High School",
     "Tech": ["Public Cloud"],
     "Awards": [
-        "2026 WorldSkills Korea The 61th Gwangju Regional Skills Competition - Cloud Computing (Encouragement Award)"
+        "2026 WorldSkills Korea The 61st Gwangju Regional Skills Competition - Cloud Computing (Encouragement Award)"
     ],
     "Certificate": [
         "AWS Certified Solutions Architect – Associate",
@@ -19,6 +19,7 @@
     "Velog": "https://velog.io/@youngjae_/series",
     "LinkedIn": "https://www.linkedin.com/in/%EC%98%81%EC%9E%AC-%EC%A1%B0-108593387/"
 }
+```
 
 <div align="center">
 
