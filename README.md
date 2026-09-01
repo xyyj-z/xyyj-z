@@ -4,7 +4,7 @@
 
 </div>
 
-```python
+```json
 {
     "Name": "YoungJae Cho",
     "School": "Gwangju Software Meister High School",
